@@ -5,3 +5,18 @@ git remote add origin https://github.com/Fantomdp/wayup-html2.git
 git commit -m "wayup html course 2"
 git branch -M main
 git push -u origin main
+
+
+Спасибо за работу! Все выглядит отлично!
+
+Только правильнее структуру макета можно сделать следующим образом:
+
+header - логотип, заголовок h1, 2 тега p.
+
+section - заголовок h2, тег p.
+
+section - заголовок h2, тег p, форма, тег p, список.
+
+footer - заголовок h2, тег a.
+
+Жду Ваш CSS с учетом  рекомендаций ;)

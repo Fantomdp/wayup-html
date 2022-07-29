@@ -1,52 +1,51 @@
-.logo{
-    height: 45px;
-
+.logo {
+  height: 45px;
 }
+
 .title {
-    color:red;
-    font-size:30px;
-} 
-
-.paragraph-blue{
-    background-color: blue;
-    color:white;
-    width: 100px;
-    height: 80px;
+  color: red;
+  font-size: 30px;
 }
 
-.red-span{
-    color:red;
+.paragraph-blue {
+  background-color: blue;
+  color: white;
+  width: 100px;
+  height: 80px;
 }
-.block{
-    margin-top: 100px;
+
+.red-span {
+  color: red;
+}
+.block {
+  margin-top: 100px;
 }
 h2 {
-    background-color: green;
-    color:white;
+  background-color: green;
+  color: white;
 }
-.h2-next{
-    padding: 5px;
+.h2-next {
+  padding: 5px;
 }
-.h2-border{
-    padding: 45px ;
-}
-
-.form p{
-    text-align:  center;
-    width: 550px;
+.h2-border {
+  padding: 45px;
 }
 
-ul{
-    margin: 10px;
-    padding: 15px;
+.paragraph-form {
+  text-align: center;
+  width: 550px;
 }
 
-.li-border{
-    font-size: 30px;
-    border:1px solid;
-   
+ul {
+  margin: 10px;
+  padding: 15px;
 }
 
-.begin{
-    padding: 5px;;
+.li-border {
+  font-size: 30px;
+  border: 1px solid black;
+}
+
+.begin {
+  padding: 5px;
 }
